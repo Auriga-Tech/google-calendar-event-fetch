@@ -1,13 +1,12 @@
-package com.aurigait.OAuth;
+package com.aurigait.googleCalendar;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OAuthApplication {
-
+public class GoogleCalendarApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(OAuthApplication.class, args);
+		SpringApplication.run(GoogleCalendarApplication.class, args);
 	}
 
 }

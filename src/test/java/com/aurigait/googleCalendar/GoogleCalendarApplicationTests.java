@@ -1,10 +1,10 @@
-package com.aurigait.OAuth;
+package com.aurigait.googleCalendar;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OAuthApplicationTests {
+class GoogleCalendarApplicationTests {
 
 	@Test
 	void contextLoads() {
